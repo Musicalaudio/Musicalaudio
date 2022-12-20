@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Musicalaudio.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning how to better how to better authenticate and authorize using JWTs.
+- 🌱 I’m currently furthering my Front End development skills (Using HTML, CSS, JS) 
