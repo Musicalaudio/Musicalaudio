@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Musicalaudio.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently furthering my Front End development skills (Using HTML, CSS, JS) 
+- 👀 I’m interested in Software Development.
+- 🔨 I use tools such as HTML, CSS, JS, React, C#, .NET and Java.
